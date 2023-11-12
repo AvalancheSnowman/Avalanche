@@ -1,6 +1,6 @@
 # Hi, I'm *Avalanche Snowman* 👋🏻 🧑🏻‍💻
 <p>
-  <img align="right" height="300" weight="300" src="computer-hacker-fallout.gif" alt="fallout"/>
+  <img align="right" height="250" weight="250" src="computer-hacker-fallout.gif" alt="fallout"/>
 I'm a <em>cybersecurity enthusiast</em>and self-taught programmer.  
 <br>
 </p>
