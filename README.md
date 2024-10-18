@@ -7,12 +7,12 @@ I'm a <em>cybersecurity enthusiast</em>and self-taught programmer.
 
 ## 🌐  Active Contributor and Community Engagement:
 
-My passion lies in building resilient security postures that stand up to the ever-evolving threat landscape.
+My passion lies in building resilient security postures that stand up to the threat landscape.
 
 Every line of code is a shield. Beyond that, I believe in the power of community-driven security.
 
 ## 🚀 Let's Fortify Together:
-Embark on this cybersecurity journey with me. Explore my homelab projects, dive into discussions, and let's collectively build stronger defenses against the ever-evolving cyber threats.
+Embark on this cybersecurity journey with me. Explore my homelab projects, dive into discussions, and let's collectively build stronger defenses.
 
 >Reinvents the wheel occasionally and creates obscure stuff.
 
